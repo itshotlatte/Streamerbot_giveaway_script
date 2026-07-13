@@ -2,7 +2,7 @@
 A streamer.bot script that allows the streamer to start and end giveaways with chat commands
 
 # Installation
-- Download just the "giveawayfunction_import_file"
+- Download the "giveawayfunction_import_file" from the releases section
 - Open streamer.bot
 - Click on "import" on the top bar
 - Select the "giveawayfunction_import_file", all the actions should import in to streamer.bot
